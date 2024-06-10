@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Xiao Tan (谈笑)"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral researcher at California Institute of Technology"
+  bio              : "Postdoctoral researcher at Caltech"
   location         : "Pasadena, California"
   employer         : "California Institute of Technology"
   uri              : # URL
@@ -71,7 +71,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : "https://www.zhihu.com/people/XX.XXXXXXXXXXXXX"
+  # zhihu            : "https://www.zhihu.com/people/XX.XXXXXXXXXXXXX"
 
 
 # Site Settings
