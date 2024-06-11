@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xiao Tan"
+title                    : "Xiao Tan/HomePage"
 title_separator          : "-"
 name                     : &name "Xiao Tan"
 description              : &description "Postdoctoral researcher at California Institute of Technology"

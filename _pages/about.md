@@ -11,21 +11,28 @@ I am a Postdoctoral Research Associate at [AMBER Lab](http://www.bipedalrobotics
 
 Research Interests
 ======
-I have a general interest in control, estimation, optimization and formal methods, and their applications in robotics. My research aeras include
-- Safe control for nonlinear systems
+I have a broad interest in control, estimation, optimization and formal methods, and their applications in robotics. My research aeras include
 - Secure and risk-aware state estimation
+- Safe control for nonlinear systems
 - Formal methods in robotics
 - Multi-agent systems
 
 Getting in touch
 ======
 I am constantly looking for students that are interested in related fields and want to do a summer/semester project with us.\
-E-mail: xiaotan at caltech dot edu\
-Address: 300 Gates-Thomas Laboratory, Caltech, Pasadena
+**E-mail**: xiaotan at caltech dot edu\
+**Address**: 300 Gates-Thomas Laboratory, Caltech, Pasadena
 
 News
 ======
-Stay tuned.
+**[June 2024]** My paper titled "A contract negotiation scheme for safety verification of interconnected systems" was accepted by the 2024 ECC Special Issue of the European Journal of Control! Check [here](https://arxiv.org/abs/2311.03164) for more details.
+
+**[June 2024]** My paper titled "Enhancing Precision Agriculture Through Human-in-the-Loop Planning and Control" was accepted by 2024 IEEE 20th International Conference on Automation Science and Engineering (CASE)!
+
+**[March 2024]** We submit a paper on security and safety for linear systems to IEEE CDC 2024!
+
+**[November 2023]** I started my new postdoctoral researcher position at Caltech.
+
 
 <!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=VkidZPvbt2CzDokMJQfguPWcgzf0UaTZ2u2Q1rEvK1Y'></script> -->
 <div style="margin-top: 200px;">

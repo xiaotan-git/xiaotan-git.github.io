@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications (since 2020)"
 permalink: /publications/
 author_profile: true
 ---
@@ -18,7 +18,7 @@ author_profile: true
 ## Preprint
 1. C. Liu, **X. Tan**, X. Wu, D. V. Dimarogonas, and K. H. Johansson, [Achieving violation-free distributed optimization under coupling constraints](https://arxiv.org/pdf/2404.07609), arXiv preprint arXiv:2404.07609, 2024.
 1. **X. Tan**, C. Liu, K. H. Johansson, and D. V. Dimarogonas, [A continuous-time violation-free multi-agent optimization algorithm and its applications to safe distributed control](https://arxiv.org/pdf/2404.07571), arXiv preprint arXiv:2404.07571, 2024.
-1. **X. Tan**, A. Papachristodoulou, and D. V. Dimarogonas, [A contract negotiation scheme for safety verification of interconnected systems](https://arxiv.org/pdf/2311.03164), arXiv preprint arXiv:2311.03164, Accepted to ECC2024, 2023.
+1. **X. Tan**, A. Papachristodoulou, and D. V. Dimarogonas, [A contract negotiation scheme for safety verification of interconnected systems](https://arxiv.org/pdf/2311.03164), arXiv preprint arXiv:2311.03164, Accepted by European Journal of Control, 2024.
 
 ## Journal Papers
 1. P. Yu, **X. Tan**, D. V. Dimarogonas, [Continuous-time control synthesis under nested signal temporal logic specifications](https://arxiv.org/pdf/2309.14347v2). IEEE Transactions on Robotics. 2024.
