@@ -27,6 +27,8 @@ I am constantly looking for students that are interested in related fields and w
 
 News
 ======
+**[July 2024]** Our paper titled "Safety of Linear Systems under Severe Sensor Attacks" was accepted by IEEE CDC 2024!
+
 **[June 2024]** My paper titled "A contract negotiation scheme for safety verification of interconnected systems" was accepted by the 2024 ECC Special Issue of the European Journal of Control! Check [here](https://arxiv.org/abs/2311.03164) for more details.
 
 **[June 2024]** My paper titled "Enhancing Precision Agriculture Through Human-in-the-Loop Planning and Control" was accepted by 2024 IEEE 20th International Conference on Automation Science and Engineering (CASE)!
