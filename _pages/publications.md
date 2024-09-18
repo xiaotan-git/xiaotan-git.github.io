@@ -31,6 +31,8 @@ author_profile: true
 
 
 ## Conference Papers
+1. **Xiao Tan**, Pio Ong, Paulo Tabuada, Aaron D. Ames, **Safety of Linear Systems under Severe Sensor Attacks**. 63rd IEEE Conference on Decision and Control (CDC), December 2024. [Paper](https://arxiv.org/abs/2409.08413)
+1. Shankar Deka, Sujet Phodapol, Andreu Matoses Gimenez, Victor Nan Fernandez-Ayala, Rufus C. Y. Wong, Pian Yu, **Xiao Tan**, Dimos V. Dimarogonas. IEEE 20th International Conference on Automation Science and Engineering (CASE), 2024.
 1. A. Wiltz, **X. Tan**, D. V. Dimarogonas, **Construction of control barrier functions using predictions with finite horizon**. 62nd IEEE Conference on Decision and Control (CDC), December 2023. [Paper](https://arxiv.org/pdf/2305.05294)
 1. V. N. Fernandez-Ayala, **X. Tan**, D. V. Dimarogonas, **Distributed barrier function-enabled human-in-the-loop control for multi-robot systems**, IEEE International Conference on Robotics and Automation (ICRA), 7706-7712, May 2023. [Paper]((https://ieeexplore.ieee.org/abstract/document/10160974)) [Video](https://youtu.be/2ASw5bkWa1I?si=83kLAWNXINNr4fC4)
 1. **X. Tan**, D. V. Dimarogonas, **Compatibility checking of multiple control barrier functions for input constrained systems**, 61st IEEE Conference on Decision and Control (CDC), 939-944, December 2022. [Paper](https://arxiv.org/pdf/2209.02284) [Slides](../files/CDC22_slides.pdf)
