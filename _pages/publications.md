@@ -18,7 +18,7 @@ author_profile: true
 ## Preprint
 1. C. Liu, **X. Tan**, X. Wu, D. V. Dimarogonas, and K. H. Johansson, **Achieving violation-free distributed optimization under coupling constraints**, arXiv preprint arXiv:2404.07609, 2024. [Paper](https://arxiv.org/pdf/2404.07609)
 1. **X. Tan**, C. Liu, K. H. Johansson, and D. V. Dimarogonas, **A continuous-time violation-free multi-agent optimization algorithm and its applications to safe distributed control**, arXiv preprint arXiv:2404.07571, 2024. [Paper](https://arxiv.org/pdf/2404.07571)
-
+1. **Xiao Tan**, Ersin Das, Aaron D Ames, Joel W Burdick,**Zero-order Control Barrier Functions for Sampled-Data Systems with State and Input Dependent Safety Constraints**, arXiv preprint arXiv:2411.17079. [Paper](https://arxiv.org/abs/2411.17079)
 
 ## Journal Papers
 1. **X. Tan**, A. Papachristodoulou, and D. V. Dimarogonas, **A contract negotiation scheme for safety verification of interconnected systems**, European Journal of Control, 2024. [Paper](ttps://arxiv.org/pdf/2311.03164) [Slides](../files/ECC24_slides.pdf)
