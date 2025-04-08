@@ -27,6 +27,8 @@ I am constantly looking for students that are interested in related fields and w
 
 News
 ======
+**[April 2025]** Secure safety filter experiments on drone platforms together with TII. Check out our [video](https://youtu.be/WdKCa3viRxg)
+
 **[October 2024]** We submitted two papers to ACC 2025!
 
 **[July 2024]** Our paper titled "Safety of Linear Systems under Severe Sensor Attacks" was accepted by IEEE CDC 2024! Check out [here](https://arxiv.org/abs/2409.08413) for more details.

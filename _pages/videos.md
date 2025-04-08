@@ -11,6 +11,10 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+## Secure Safety Filter: Towards  Safe Flight  Control under Sensor Attack
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WdKCa3viRxg?si=2esaOTA_QFogKaul" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ## Enhancing Precision Agriculture Through Human-in-the-Loop Planning and Control
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4PO25VWl6y0?si=zwc7363-lUTAau-7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
