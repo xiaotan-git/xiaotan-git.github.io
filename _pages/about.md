@@ -7,23 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-I am a tenure-track professor at the School of Automation Science and Electrical Engineering, Beihang University, Beijing. I am also jointly appointed at International Institute of Beihang University, Hangzhou. Prior to this position, I was a Postdoctoral Research Associate at AMBER Lab, California Institute of Technology, USA. I obtained my Ph.D. in Electrical Engineering in May 2023 from KTH Royal Institute of Technology, Stockholm, Sweden, supervised by [Prof. Dimos V. Dimarogonas](https://people.kth.se/~dimos/). 
+I am a tenure-track professor at the School of Automation Science and Electrical Engineering, Beihang University, Beijing. I am also jointly appointed at the International Institute of Beihang University, Hangzhou. Prior to this position, I was a Postdoctoral Research Associate at AMBER Lab, California Institute of Technology, USA. I obtained my Ph.D. in Electrical Engineering from KTH Royal Institute of Technology, Stockholm, Sweden in May 2023. 
 
 
 Research Interests
 ======
 I have a broad interest in control, estimation, optimization and formal methods, and their applications in robotics. My research areas include
 - Secure and risk-aware state estimation
+- Learning for control and control for learning
 - Safe control for nonlinear systems
 - Formal methods in robotics
-- Learning for control and control for learning
 - Multi-agent systems
 
 <span style="font-weight: bold; background-color: #FDEBD0; color: black">I am actively looking for prospective students to join my lab at Beihang Beijing or Beihang Hangzhou!</span>
 
 Getting in touch
 ======
-**E-mail**: xiaotan at buaa dot edu dot cn\
+**E-mail**: xiaotan at buaa dot edu dot cn
 
 For a short bio in Chinese, please check my [webpage](https://shi.buaa.edu.cn/tanxiao/zh_CN/index/225402/list/index.htm).
 
