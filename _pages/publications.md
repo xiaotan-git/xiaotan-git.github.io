@@ -16,14 +16,16 @@ author_profile: true
 {% endfor %} -->
 
 ## Preprint
-1. C. Liu, **X. Tan**, X. Wu, D. V. Dimarogonas, and K. H. Johansson, **Achieving violation-free distributed optimization under coupling constraints**, arXiv preprint arXiv:2404.07609, 2024. [Paper](https://arxiv.org/pdf/2404.07609)
-1. **Xiao Tan**, Junior Sundar, Renzo Bruzzone, Pio Ong, Willian T. Lunardi, Martin Andreoni, Paulo Tabuada, and Aaron D. Ames, **Secure Safety Filter: Towards  Safe Flight  Control under Sensor Attack**, submitted to IROS 2025. [Paper](https://arxiv.org/abs/2505.06845)
-2. **Xiao Tan**, Pio Ong, Paulo Tabuada, Aaron D. Ames, **Secure Safety Filter Design for Sampled-data Nonlinear Systems under Sensor Spoofing Attacks**. submitted to CDC 2025. [Paper](https://arxiv.org/abs/2505.06842)
+
+
+
 
 
 
 
 ## Journal Papers
+1. Shima Sadat Mousavi, **Xiao Tan**, Aaron D. Ames, **From Vertices to Convex Hulls: Certifying Set-Wise Compatibility for CBF Constraints**, IEEE Control Systems Letters, 2026. [Paper](https://ieeexplore.ieee.org/document/11315123)
+1. C. Liu, **X. Tan**, X. Wu, D. V. Dimarogonas, and K. H. Johansson, **Achieving violation-free distributed optimization under coupling constraints**, Automatica, 2026. [Paper](https://arxiv.org/pdf/2404.07609)
 1. **X. Tan**, C. Liu, K. H. Johansson, and D. V. Dimarogonas, **A continuous-time violation-free multi-agent optimization algorithm and its applications to safe distributed control**, IEEE Transactions on Automatic Control, to appear, 2025. [Paper](https://arxiv.org/abs/2404.07571)
 1. **X. Tan**, A. Papachristodoulou, and D. V. Dimarogonas, **A contract negotiation scheme for safety verification of interconnected systems**, European Journal of Control, 2024. [Paper](ttps://arxiv.org/pdf/2311.03164) [Slides](../files/ECC24_slides.pdf)
 1. P. Yu, **X. Tan**, D. V. Dimarogonas, **Continuous-time control synthesis under nested signal temporal logic specifications**, IEEE Transactions on Robotics. 2024. [Paper](https://arxiv.org/pdf/2309.14347v2) [Code](https://github.com/xiaotan-git/sTLT)
@@ -31,12 +33,14 @@ author_profile: true
 1. **X. Tan**, D. V. Dimarogonas, **Distributed implementation of control barrier functions for multi-agent systems**, IEEE Control Systems Letters 6, 1879-1884, 2021. [Paper](https://www.diva-portal.org/smash/get/diva2:1625821/FULLTEXT01.pdf) [Slides](../files/ACC22_RI.pdf)
 1. W. S. Cortez, **X. Tan**, D. V. Dimarogonas, **A robust, multiple control barrier function framework for input constrained systems**, IEEE Control Systems Letters 6, 1742-1747, 2021. [Paper](https://arxiv.org/pdf/2205.13726)
 1.  **X. Tan**, W. S. Cortez, D. V. Dimarogonas, **High-order barrier functions: Robustness, safety, and performance-critical control**, IEEE Transactions on Automatic Control, 67 (6), 3021-3028, 2021. [Paper](https://arxiv.org/pdf/2104.00101)
-1. **X. Tan**,  S Berkane, D. V. Dimarogonas, **Constrained attitude maneuvers on SO (3): Rotation space sampling, planning and low-level control**, Automatica 112, 108659, 2020. [Paper](https://people.kth.se/~dimos/pdfs/Xiao_Automatica_2020.pdf)
+1. **X. Tan**, S Berkane, D. V. Dimarogonas, **Constrained attitude maneuvers on SO (3): Rotation space sampling, planning and low-level control**, Automatica 112, 108659, 2020. [Paper](https://people.kth.se/~dimos/pdfs/Xiao_Automatica_2020.pdf)
 
 
 ## Conference Papers
+1. **Xiao Tan**, Pio Ong, Paulo Tabuada, Aaron D. Ames, **Secure Safety Filter Design for Sampled-data Nonlinear Systems under Sensor Spoofing Attacks**. 64th IEEE Conference on Decision and Control (CDC), December 2025. [Paper](https://arxiv.org/abs/2505.06842)
+1. **Xiao Tan**, Junior Sundar, Renzo Bruzzone, Pio Ong, Willian T. Lunardi, Martin Andreoni, Paulo Tabuada, and Aaron D. Ames, **Secure Safety Filter: Towards Safe Flight Control under Sensor Attack**, the 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). [Paper](https://arxiv.org/abs/2505.06845)
 1. **Xiao Tan**, Pio Ong, Paulo Tabuada, Aaron D. Ames, **Computationally Efficient Safe Control of Linear Systems under Severe Sensor Attacks**. The 2025 American Control Conference (ACC), July 2025. [Paper](https://arxiv.org/abs/2502.20718)
-1. **Xiao Tan**, Ersin Das, Aaron D Ames, Joel W Burdick,**Zero-order Control Barrier Functions for Sampled-Data Systems with State and Input Dependent Safety Constraints**, The 2025 American Control Conference (ACC), July 2025. [Paper](https://arxiv.org/abs/2411.17079)
+1. **Xiao Tan**, Ersin Das, Aaron D Ames, Joel W Burdick, **Zero-order Control Barrier Functions for Sampled-Data Systems with State and Input Dependent Safety Constraints**, The 2025 American Control Conference (ACC), July 2025. [Paper](https://arxiv.org/abs/2411.17079)
 1. **Xiao Tan**, Pio Ong, Paulo Tabuada, Aaron D. Ames, **Safety of Linear Systems under Severe Sensor Attacks**. 63rd IEEE Conference on Decision and Control (CDC), December 2024. [Paper](https://arxiv.org/abs/2409.08413)
 1. Shankar Deka, Sujet Phodapol, Andreu Matoses Gimenez, Victor Nan Fernandez-Ayala, Rufus C. Y. Wong, Pian Yu, **Xiao Tan**, Dimos V. Dimarogonas. **Enhancing Precision Agriculture through Human-In-The-Loop Planning and Control**. IEEE 20th International Conference on Automation Science and Engineering (CASE), 2024. [Paper](https://ieeexplore.ieee.org/document/10711319)
 1. A. Wiltz, **X. Tan**, D. V. Dimarogonas, **Construction of control barrier functions using predictions with finite horizon**. 62nd IEEE Conference on Decision and Control (CDC), December 2023. [Paper](https://arxiv.org/pdf/2305.05294)
